@@ -6,5 +6,5 @@
 #Assignment6:https://github.com/Vinnu004/AIML2024/blob/main/ASSIGNMENT_6.ipynb
 #Assignment7:https://github.com/Vinnu004/AIML2024/blob/main/Untitled5.ipynb
 #Assignment 9:https://github.com/Vinnu004/AIML2024/blob/main/2203a51583%20(3).ipynb
-#project1:https://github.com/Vinnu004/AIML2024/blob/main/project_1_ipnyb.ipynb
 #Assignment10:https://github.com/Vinnu004/AIML2024/blob/main/assignment_10.ipynb
+#project1:https://github.com/Vinnu004/AIML2024/blob/main/ELECTRICITY_LOAD_FORECASTING.ipynb
